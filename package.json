@@ -10,7 +10,8 @@
   "license": "ISC",
   "dependencies": {
     "fs": "^0.0.1-security",
-    "hasbin": "^1.2.3"
+    "hasbin": "^1.2.3",
+    "path": "^0.12.7"
   },
   "peerDependences": {
     "serverless": "^2.32.0"
