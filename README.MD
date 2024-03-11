@@ -62,6 +62,6 @@ The plugin creates a `__mock_responses_handler.py` file in the root of your serv
 ## Contributing
 Contributions to `serverless-offline-mock-responses` are welcome. Please ensure that your contributions adhere to the coding standards and include tests covering new features or bug fixes.
 
-## License
+## License 
 This project is licensed under the MIT License.
 
