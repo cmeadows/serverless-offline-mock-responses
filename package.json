@@ -1,0 +1,18 @@
+{
+  "name": "serverless-offline-mock-responses",
+  "version": "1.0.0",
+  "description": "A Serverless Offline plugin to mock HTTP requests with Python responses library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Collin Meadows <collin.meadows@tech304.com>",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "hasbin": "^1.2.3"
+  },
+  "peerDependences": {
+    "serverless": "^2.32.0"
+  }
+}
